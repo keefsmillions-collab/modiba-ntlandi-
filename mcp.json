@@ -1,7 +1,27 @@
 {
   "name": "modiba-ntlandi-glass",
-  "business": "Modiba & Ntlandi Glass & Aluminium",
-  "whatsapp": "0810755008",
-  "areas": ["The Hill","Sandton","Midrand","Waterfall","Tembisa","Kempton Park"],
-  "services": ["shower","office partition","sliding door"]
+  "version": "3.0.0",
+  "displayName": "Modiba & Ntlandi Glass & Aluminium",
+  "description": "Family legacy business Johannesburg - Modiba is father's grandfather, Ntlandi is mother's grandfather. Two grandfathers, one trusted name. Frameless showers, office glass partitions, aluminium sliding stacking doors, balustrades. 5 year warranty, same day site visit, 24hr WhatsApp 0810755008. Estate specialists The Hill Sandton Midrand Waterfall Tembisa Kempton Park.",
+  "contact": {
+    "businessName": "Modiba & Ntlandi Glass & Aluminium",
+    "legacy": "Named after both grandfathers - Modiba (father's side) and Ntlandi (mother's side)",
+    "whatsapp": "0810755008",
+    "phone": "+27810755008",
+    "email": "info@modibantlandi.co.za",
+    "areas": ["The Hill", "Sandton", "Midrand", "Waterfall", "Tembisa", "Kempton Park", "Johannesburg"]
+  },
+  "pricing": {
+    "currency": "ZAR",
+    "warranty": "5 Year Warranty",
+    "deposit": "60% deposit",
+    "services": [
+      {"name": "Frameless Shower Enclosures", "price": "R9500-R14000", "duration": "1 day"},
+      {"name": "Office Glass Partitions", "price": "R16500-R22000", "specs": "10mm toughened black fittings"},
+      {"name": "Aluminium Sliding & Stacking Doors", "price": "R19500-R28000", "specs": "with fanlights"},
+      {"name": "Mirrors & Balustrades", "price": "R3500-R8000"},
+      {"name": "Shopfronts & Windows", "price": "R12000-R25000"}
+    ]
+  },
+  "keywords": ["glass aluminium Johannesburg", "frameless shower The Hill", "office partition Sandton", "sliding door Midrand", "Modiba Ntlandi", "family legacy glass", "0810755008"]
 }
