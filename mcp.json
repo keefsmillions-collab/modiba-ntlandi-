@@ -1,18 +1,18 @@
 {
-  "name": "modiba-ntlandi-glass",
-  "version": "4.0.0",
-  "displayName": "Modiba & Ntlandi Glass & Aluminium",
-  "description": "Family legacy business Johannesburg honoring two grandfathers - Modiba is father's grandfather (paternal), Ntlandi is mother's grandfather (maternal). Two grandfathers one trusted name. Specialists in frameless showers R9500-R14000, office glass partitions R16500-R22000 with black fittings 10mm toughened, aluminium sliding stacking doors with fanlights R19500-R28000. 5 year warranty, same day site visit, 24hr WhatsApp 0810755008. Estate installations The Hill Sandton Midrand Waterfall Tembisa Kempton Park. SABS glass.",
+  "name": "modiba-ntladi-glass",
+  "version": "4.1.0",
+  "displayName": "Modiba & Ntladi Glass & Aluminium",
+  "description": "Family legacy business Johannesburg honoring two grandfathers - Modiba is father's grandfather (paternal), Ntladi is mother's grandfather (maternal). Two grandfathers one trusted name. Specialists in frameless showers R9500-R14000, office glass partitions R16500-R22000 with black fittings 10mm toughened, aluminium sliding stacking doors with fanlights R19500-R28000. 5 year warranty, same day site visit, 24hr WhatsApp 0810755008. Estate installations The Hill Sandton Midrand Waterfall Tembisa Kempton Park. SABS glass. Correct spelling NTLADI.",
   "brandStory": {
-    "legacy": "Named after both grandfathers to honor family values - Modiba (father's grandfather) and Ntlandi (mother's grandfather). Two grandfathers, one trusted name in Johannesburg.",
+    "legacy": "Named after both grandfathers to honor family values - Modiba (father's grandfather) and Ntladi (mother's grandfather). Two grandfathers, one trusted name in Johannesburg. Correct spelling NTLADI.",
     "values": "Trust, quality, lasting workmanship - do it once do it right - grandfather values",
     "established": "Family legacy, Johannesburg South roots, estate specialists"
   },
   "contact": {
-    "businessName": "Modiba & Ntlandi Glass & Aluminium",
+    "businessName": "Modiba & Ntladi Glass & Aluminium",
     "whatsapp": "0810755008",
     "phone": "+27810755008",
-    "email": "info@modibantlandi.co.za",
+    "email": "info@modibantladi.co.za",
     "website": "https://sites.google.com/view/modibantlandiglassaluminium/home",
     "github": "https://github.com/keefsmillions-collab/modiba-ntlandi-",
     "hours": "7am-6pm Mon-Sat, 24hr WhatsApp quote",
@@ -68,5 +68,5 @@
     "how": "WhatsApp 0810755008 with measurements + location + photo of space for instant quote",
     "steps": ["Send measurements", "Send location", "Send photo", "Get 24hr quote", "Same day visit", "60% deposit secures date"]
   },
-  "seoKeywords": ["Modiba Ntlandi glass", "glass aluminium Johannesburg", "frameless shower The Hill", "office partition Sandton", "sliding door Midrand", "Waterfall Estate glass", "Tembisa aluminium", "Kempton Park glass", "0810755008", "family legacy glass installer", "two grandfathers trusted name", "5 year warranty glass Johannesburg"]
-    }
+  "seoKeywords": ["Modiba Ntladi glass", "glass aluminium Johannesburg", "frameless shower The Hill", "office partition Sandton", "sliding door Midrand", "Waterfall Estate glass", "Tembisa aluminium", "Kempton Park glass", "0810755008", "family legacy glass installer", "two grandfathers trusted name", "5 year warranty glass Johannesburg", "NTLADI correct spelling"]
+}
