@@ -1,12 +1,12 @@
 {
   "name": "modiba-ntladi-glass",
-  "version": "4.1.0",
+  "version": "5.0.0",
   "displayName": "Modiba & Ntladi Glass & Aluminium",
-  "description": "Family legacy business Johannesburg honoring two grandfathers - Modiba is father's grandfather (paternal), Ntladi is mother's grandfather (maternal). Two grandfathers one trusted name. Specialists in frameless showers R9500-R14000, office glass partitions R16500-R22000 with black fittings 10mm toughened, aluminium sliding stacking doors with fanlights R19500-R28000. 5 year warranty, same day site visit, 24hr WhatsApp 0810755008. Estate installations The Hill Sandton Midrand Waterfall Tembisa Kempton Park. SABS glass. Correct spelling NTLADI.",
+  "description": "Family legacy business Johannesburg honoring two grandfathers - Modiba paternal grandfather, Ntladi maternal grandfather. Correct spelling NTLADI. 6 services: frameless glass installation R8500-R30000, frameless showers R9500-R14000, office glass partitions R16500-R22000, sliding stacking doors R19500-R28000, aluminium windows shopfronts R12000-R25000, glass doors mirrors balustrades R3500-R15000. 5 year warranty, Estate Approved, SAGGA Certified, same day site visit, 24hr WhatsApp 0810755008. Sandton Midrand The Hill Waterfall.",
   "brandStory": {
-    "legacy": "Named after both grandfathers to honor family values - Modiba (father's grandfather) and Ntladi (mother's grandfather). Two grandfathers, one trusted name in Johannesburg. Correct spelling NTLADI.",
+    "legacy": "Named after both grandfathers to honor family values - Modiba (father's grandfather paternal) and Ntladi (mother's grandfather maternal). Two grandfathers one trusted name. Correct spelling NTLADI - not NTLANDI. Ancestors name must be correct.",
     "values": "Trust, quality, lasting workmanship - do it once do it right - grandfather values",
-    "established": "Family legacy, Johannesburg South roots, estate specialists"
+    "established": "Family legacy, Johannesburg South roots, estate specialists - The Hill, Sandton, Midrand, Waterfall"
   },
   "contact": {
     "businessName": "Modiba & Ntladi Glass & Aluminium",
@@ -15,58 +15,68 @@
     "email": "info@modibantladi.co.za",
     "website": "https://sites.google.com/view/modibantlandiglassaluminium/home",
     "github": "https://github.com/keefsmillions-collab/modiba-ntlandi-",
-    "hours": "7am-6pm Mon-Sat, 24hr WhatsApp quote",
+    "hours": "7am-6pm Mon-Sat, 24hr WhatsApp quote Sunday",
     "areas": ["The Hill Estate", "Sandton", "Midrand", "Waterfall Estate", "Tembisa", "Kempton Park", "Johannesburg South", "Alberton", "Gauteng"],
-    "responseTime": "24hr WhatsApp, same day site visit"
+    "responseTime": "24hr WhatsApp, same day site visit Johannesburg",
+    "correctSpelling": "NTLADI - not NTLANDI"
   },
   "pricing": {
     "currency": "ZAR",
-    "warranty": "5 Year Written Warranty",
+    "warranty": "5 Year Written Warranty - Estate Approved",
     "deposit": "60% deposit secures booking, 40% on completion",
+    "certification": "SAGGA Certified, SABS Approved Glass, Estate Approved",
     "services": [
+      {
+        "name": "Frameless Glass Installation",
+        "priceRange": "R8500-R30000",
+        "duration": "1-4 days",
+        "specs": "Full frameless glass solutions - showers, partitions, doors, windows, balustrades, shopfronts, structural glass. 10mm toughened SABS safety glass, estate grade black fittings, clean workmanship",
+        "bestFor": "Estates, modern homes, offices - Sandton Midrand Waterfall The Hill specialist - MAIN SERVICE"
+      },
       {
         "name": "Frameless Shower Enclosures",
         "priceRange": "R9500-R14000",
         "duration": "1 day install",
-        "specs": "10mm toughened SABS glass, frameless sliding or pivot, seals handles waterproofing included",
-        "bestFor": "Estates, modern homes"
+        "specs": "10mm toughened SABS glass, frameless sliding or pivot, seals handles waterproofing included, SAGGA Certified",
+        "bestFor": "Estates, modern homes - The Hill Estate specialist"
       },
       {
         "name": "Office Glass Partitions",
         "priceRange": "R16500-R22000",
         "duration": "2-3 days per office",
-        "specs": "10mm toughened glass, black aluminium fittings, demountable, sound reduction",
-        "bestFor": "Sandton corporate, estate offices"
+        "specs": "10mm toughened glass, black aluminium fittings, demountable, sound reduction, modern office look",
+        "bestFor": "Sandton corporate, estate offices, Midrand offices"
       },
       {
         "name": "Aluminium Sliding & Stacking Doors",
         "priceRange": "R19500-R28000",
         "duration": "2-4 days",
-        "specs": "Estate grade heavy duty aluminium, with fanlights, secure locking, smooth sliding",
-        "bestFor": "The Hill Estate specialist, patio doors"
+        "specs": "Estate grade heavy duty aluminium, with fanlights, secure locking, smooth sliding, estate compliant colours",
+        "bestFor": "The Hill Estate specialist, patio doors, Waterfall Estate"
       },
       {
-        "name": "Mirrors & Glass Balustrades",
-        "priceRange": "R3500-R8000",
-        "specs": "Custom cut, gym mirrors, vanity mirrors, stair and balcony balustrades SABS safety",
-        "bestFor": "Homes, gyms, balconies"
-      },
-      {
-        "name": "Shopfronts & Aluminium Windows",
+        "name": "Aluminium Windows & Shopfronts",
         "priceRange": "R12000-R25000",
-        "specs": "Business shopfronts, aluminium sliding casement windows, estate compliant colours",
-        "bestFor": "Shops, estate homes"
+        "duration": "2-3 days",
+        "specs": "Shopfronts for businesses, aluminium sliding casement windows, estate compliant colours, SABS glass",
+        "bestFor": "Shops, estate homes - Tembisa, Kempton Park, Johannesburg South"
+      },
+      {
+        "name": "Glass Doors, Mirrors & Balustrades",
+        "priceRange": "R3500-R15000",
+        "specs": "Custom cut mirrors, gym mirrors, vanity mirrors, stair and balcony balustrades, frameless glass doors pivot hinged, SABS safety",
+        "bestFor": "Homes, gyms, balconies, shops, estates"
       }
     ]
   },
   "proof": {
-    "projects": ["The Hill Estate Sliding Door with Fanlight", "Sandton Office Glass Partition", "Waterfall Estate Frameless Shower"],
-    "materials": "SABS Approved Glass, Estate Grade Aluminium",
-    "service": "Same day site visit, 24hr WhatsApp quote, protective sheets, clean workmanship, on-time"
+    "projects": ["The Hill Estate Sliding Door with Fanlight", "Sandton Office Glass Partition", "Waterfall Estate Frameless Shower", "Midrand Frameless Glass Installation", "Tembisa Shopfront", "Kempton Park Aluminium Windows"],
+    "materials": "SABS Approved 10mm Toughened Glass, Estate Grade Aluminium, Black fittings rust-free, SAGGA Certified",
+    "service": "Same day site visit Johannesburg, 24hr WhatsApp quote 0810755008, protective sheets, clean workmanship, on-time, Estate Approved, 5 Year Warranty"
   },
   "booking": {
-    "how": "WhatsApp 0810755008 with measurements + location + photo of space for instant quote",
-    "steps": ["Send measurements", "Send location", "Send photo", "Get 24hr quote", "Same day visit", "60% deposit secures date"]
+    "how": "WhatsApp 0810755008 with measurements + location + photo of space for instant 24hr quote",
+    "steps": ["Send measurements", "Send location (e.g. The Hill, Sandton)", "Send photo of space", "Get 24hr quote", "Same day site visit", "60% deposit secures date", "Professional installation", "5 year warranty"]
   },
-  "seoKeywords": ["Modiba Ntladi glass", "glass aluminium Johannesburg", "frameless shower The Hill", "office partition Sandton", "sliding door Midrand", "Waterfall Estate glass", "Tembisa aluminium", "Kempton Park glass", "0810755008", "family legacy glass installer", "two grandfathers trusted name", "5 year warranty glass Johannesburg", "NTLADI correct spelling"]
+  "seoKeywords": ["Modiba & Ntladi", "Modiba Ntladi glass", "NTLADI correct spelling", "Modiba and Ntladi Glass & Aluminium", "frameless glass installation Johannesburg", "frameless glass installation Sandton", "frameless glass installation Midrand", "frameless glass Waterfall Estate", "frameless shower The Hill Estate", "office glass partition Sandton", "aluminium sliding door Waterfall Estate", "sliding door Midrand", "glass balustrade Johannesburg", "shopfront Tembisa", "aluminium windows Kempton Park", "estate approved glass installer", "SAGGA Certified", "5 year warranty glass Johannesburg", "same day site visit", "24hr WhatsApp quote 0810755008", "family legacy glass installer Johannesburg", "The Hill Estate glass specialist", "Waterfall Estate frameless glass", "Sandton frameless shower", "two grandfathers trusted name"]
 }
